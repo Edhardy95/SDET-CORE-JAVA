@@ -1,8 +1,8 @@
 /*Write a Java program to reverse a string. 
- * Enter the string: My name is mithun.
+ * Enter the string: My name is harshit.
  * 
  * Expected output:
- * Reversed string is : nuhtim si eman ym
+ * Reversed string is : tihsrah si eman ym
  */
 
 
